@@ -1,0 +1,15 @@
+{
+  "name": "cad-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "run:e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
